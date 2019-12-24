@@ -27,8 +27,14 @@ Your transactions are private and secured by blockchain technology. The records 
 
 
 ✔️Website: https://perodium.com/index
+
 ✔️Twitter: https://twitter.com/Perodiumcom
+
 ✔️Telegram Channel: https://t.me/perodium
+
 ✔️Telegram Group: https://t.me/perodiumgroupen
+
 ✔️Discord: https://discord.gg/Mz5PZdw
+
 ✔️Airdrop Dapp: https://perodium.com/airdropdapp
+
