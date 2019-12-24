@@ -1,0 +1,7 @@
+To interact with decentralized applications you must have a tron wallet that support TronWeb / dapps.
+
+Example: TronWallet.me is a bridge for allowing TRON DApps to run in the browser without having to deploy a TRON Full Node. This allows for the web DApp to interact with the TRON network.
+
+Perodium supported wallets: https://perodium.com/wallets
+
+TronNetwork wallets list: https://tron.network/wallet
